@@ -2,7 +2,8 @@
   "basics": {
     "name": "Abdel Nahli",
     "label": "Senior AI/ML Engineer",
-    "picture": "https://nahliabdelwahed.github.io/resume/avatar.jpeg",
+    #"picture": "https://nahliabdelwahed.github.io/resume/avatar.jpeg",
+    "picture": "https://media.licdn.cn/dms/image/C5603AQHls5oJsUownA/profile-displayphoto-shrink_800_800/0/1578847503015?e=1619654400&v=beta&t=ze8hAWFQ7EYOY6n65YbRj86s9FxKusaDPQQEmZCO5rw"
     "email": "nahliabdelwahed@gmail.com",
     "phone": "+86 15604302529",
     "website": "https://nahliabdelwahed.github.io/resume/",
